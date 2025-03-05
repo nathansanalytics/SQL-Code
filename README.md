@@ -1,1 +1,1 @@
-# SQL_Employees
+# My SQL project on GitHub.
